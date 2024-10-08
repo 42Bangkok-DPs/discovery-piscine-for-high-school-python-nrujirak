@@ -1,5 +1,4 @@
-# name2.py
-first_name = "Natthee"
-last_name = "Rujirakakulwat"
-whole_name = (first_name + " " + last name)
-print(whole_name)
+# age.py
+my_age = 17 
+my_age = (my_age + 42)
+print(my_age)
