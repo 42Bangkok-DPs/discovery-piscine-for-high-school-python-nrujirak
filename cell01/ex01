@@ -1,5 +1,5 @@
-# name.py
+# name2.py
 first_name = "Natthee"
 last_name = "Rujirakakulwat"
-
-print(first_name ,last_name)
+whole_name = (first_name + " " + last name)
+print(whole_name)
