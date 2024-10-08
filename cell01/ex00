@@ -1,1 +1,5 @@
+# name.py
+first_name = "Natthee"
+last_name = "Rujirakakulwat"
 
+print(first_name ,last_name)
