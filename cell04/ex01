@@ -1,1 +1,13 @@
+# age2.py
+def main():
+    age = int(input("Please tell me your age: "))
 
+    age2 = 10
+    age3 = 20
+    age4 = 30
+    print(f"10 y, you'll be {age + age2} years old")
+    print(f"10 y, you'll be {age + age3} years old")
+    print(f"10 y, you'll be {age + age4} years old")
+
+if __name__ == "__main__":
+    main()
