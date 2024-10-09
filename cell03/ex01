@@ -1,3 +1,8 @@
-n = int(input("Enter a number: "))
-for i in range(10):
-    print(f"{i} x {n} = {i} * {n}")
+def multiplication_table(number):
+    for i in range(0, 10):  # Change this to 10 to show the full table
+        product = number * i
+        print(f"{number} x {i} = {product}")
+
+if __name__ == "__main__":  # Corrected this line to check for the main module
+    number = int(input("Enter a number: "))
+    multiplication_table(number)
