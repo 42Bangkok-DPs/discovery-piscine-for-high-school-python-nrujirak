@@ -1,1 +1,8 @@
+#!/usr/bin/env python3
 
+def main():
+    wow = input("Give me a wow: ")
+    print(word.upper())
+
+if __name__ == "__main__":
+    main()
